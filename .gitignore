@@ -1,7 +1,9 @@
 .htaccess
-/config.php
+config.php
 admin/config.php
-
+system/
+php.ini
+index.php
 !index.html
 
 download/
